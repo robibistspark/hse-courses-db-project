@@ -1,6 +1,7 @@
 # Проект по курсу базы данных
 
-Логическая схема
+## Логическая схема
+
 
 ![image](https://github.com/robibistspark/hse-courses-db-project/assets/71763293/25ecff17-aaa6-4223-a679-4fe9af7ddf70)
 
